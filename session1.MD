@@ -27,12 +27,13 @@
     MINGW64 /c/Sirius/DevopswithSiva_31Mar2024_daws-78s/repos/git-commands (main)
     $ git add . ; git commit -m "reference for session1 git commands.." ; git push -u origin main
   ````
-ActualError:
+  **ActualError:**
   
     MINGW64 /c/Sirius/DevopswithSiva_31Mar2024_daws-78s/repos/newcloudrepo (main)
     $ git remote add murali4uj https://github.com/murali4uj/newrepo.git
     MINGW64 /c/Sirius/DevopswithSiva_31Mar2024_daws-78s/repos/newcloudrepo (main)
     $ git push murali4uj master
+    
     <span style="color:red">error: src refspec master does not match any</span>
     <span style="color:red">error: failed to push some refs to 'https://github.com/murali4uj/newrepo.git'</span>
 
