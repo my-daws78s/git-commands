@@ -11,7 +11,7 @@
  * git config --global user.email "vujjimuralikrishna@gmail.com"
  * .git-credentials --> *stores the token value created to push files to remote origin*
  * git log --> *u can check who committed the file mainly the users*
- **Now siva created an account in github and create a repo with same name that u created in ur local to be in sync.**
+ * Here siva created an account in github and create a repo with same name that u created in ur local to be in sync.**
  * git remote add origin <url of github repo u just created> --> *https://github.com/my-daws78s/git-commands.git*
  * git push -u origin master --> *this was throwing error in class as Siva used a different laptop of his friend and trying to push..*
 
