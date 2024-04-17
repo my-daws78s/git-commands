@@ -1,6 +1,6 @@
 **Session1:**
 
-
+````
  git init
  git add <filename> --> *staging/temp area*
  git add <file1> <file2> --> *Adding multiple files*
@@ -14,7 +14,8 @@
  Now create an account in github and create a repo with same name that u created in ur local to be in sync.
  git remote add origin <url of github repo u just created> --> *https://github.com/my-daws78s/git-commands.git*
  git push -u origin master --> this was throwing error in class as Siva used a different laptop of his friend and trying to push..
- Control Panel --> User Accounts --> Credential Manager --> Windows Credentials --> Generic Credentials --> and remove the github keys
+ ````
+ * Control Panel --> User Accounts --> Credential Manager --> Windows Credentials --> Generic Credentials --> and remove the github keys
  
  **Summary:**
  * I am developer1, today I created a repo in my local and pushed to github.
