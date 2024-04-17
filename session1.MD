@@ -22,3 +22,6 @@
  * Tomorrow dev2 will come and pull that repo in his local from remote central repo..
 
  * Issues: I did not find the approach of adding remote origin working here, instead I cloned the rep in my local and just used the push command.
+ * MuraVuj@LT-AAD-WhtDXQ1z MINGW64 /c/Sirius/DevopswithSiva_31Mar2024_daws-78s/repos/git-commands (main)
+ * $ git add . ; git commit -m "reference for session1 git commands.." ; git push -u origin main
+
