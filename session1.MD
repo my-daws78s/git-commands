@@ -32,6 +32,6 @@
     $ git remote add murali4uj https://github.com/murali4uj/newrepo.git
     MINGW64 /c/Sirius/DevopswithSiva_31Mar2024_daws-78s/repos/newcloudrepo (main)
     $ git push murali4uj master
-    error: src refspec master does not match any
+    `rgb(R,G,B)` error: src refspec master does not match any
     error: failed to push some refs to 'https://github.com/murali4uj/newrepo.git'
 
