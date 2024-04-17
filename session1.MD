@@ -17,5 +17,5 @@
  Control Panel --> User Accounts --> Credential Manager --> Windows Credentials --> Generic Credentials --> and remove the github keys
  
  **Summary:**
- I am developer1, today I created a repo in my local and pushed to github.
- Tomorrow dev2 will come and pull that repo in his local from remote central repo..
+ * I am developer1, today I created a repo in my local and pushed to github.
+ * Tomorrow dev2 will come and pull that repo in his local from remote central repo..
