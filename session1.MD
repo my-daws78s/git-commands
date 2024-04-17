@@ -1,6 +1,7 @@
 **Session1:**
 
- * git init
+ * git init --> *creates a new git repository in your local*
+ * git clone url-of-repo --> *this is after taking url post creating a repo in ur github account and just work thru next commands..*
  * git add <filename> --> *staging/temp area*
  * git add <file1> <file2> --> *Adding multiple files*
  * git add . --> *add all files at once*
