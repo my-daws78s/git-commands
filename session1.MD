@@ -20,3 +20,5 @@
  **Summary:**
  * I am developer1, today I created a repo in my local and pushed to github.
  * Tomorrow dev2 will come and pull that repo in his local from remote central repo..
+
+ * Issues: I did not find the approach of adding remote origin working here, instead I cloned the rep in my local and just used the push command.
